@@ -71,8 +71,7 @@ export default {
 
                 const countNeighborsPopulate = this.countNeighbors(neighborsResearched);
 
-                console.log(col, row);
-                console.log(countNeighborsPopulate);
+                // Stop : Go lire le readme
             });
         },
         getNeighborsResearched(col, row) {
